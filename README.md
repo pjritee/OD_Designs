@@ -25,7 +25,7 @@ We can write OD(n; $s_1, \ldots, s_l)$ as $A_1x_1+\ldots+A_lx_l$ where $A_i$ are
 
 It is straightforward to show from the properties of ODs that
 
-1.  $A_i A_i^T = s_i$ and
+1.  $A_i A_i^T = s_i I_n$ and
 
 2.  $A_i A_j^T + A_j A_i^T = O_n$ for $i \neq j$ where $O_n$ is a matrix of size $n \times n$ with all entries 0.
 
